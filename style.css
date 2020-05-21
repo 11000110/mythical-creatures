@@ -1,0 +1,53 @@
+h1{
+    color:cadetblue;
+}
+#home{
+     background-color:ghostwhite;
+     text-align: center;
+    
+      }
+#pr{
+    color:powderblue;
+    background-color:powderblue;
+        }
+#welcome{
+        font-family:monospace;
+        text-align: center;
+        }
+.para{
+    font-family:monospace;
+}
+#www{
+    color: aqua;
+    background-color: aqua;
+}
+.myth{
+    color:whitesmoke;
+    background-color:black;
+}
+html{
+    background-color:thistle;
+}
+#dragon{
+    font-family:monospace;
+    background-color: aquamarine;
+}
+#fairyy{
+    font-family:monospace;
+}
+#mermaid{
+    font-family:monospace;
+}
+#nine-tailed-fox{
+    font-family:monospace;
+}
+#phoenix{
+    font-family:monospace;
+}
+#creature{
+    font-family: monospace;
+}
+.i{
+    font-family: fantasy;
+}
+
